@@ -90,7 +90,7 @@ const calculateBmi = (e) => {
         //remover el mensaje despues de un tiempo
         setTimeout(() => {
             calculateMessage.textContent = ''
-        }, 3000)
+        }, 5000)
     } else {
         //BMI FORMULA
         const cm = calculateCm.value / 100,
@@ -117,7 +117,7 @@ const calculateBmi = (e) => {
         //remover el mensaje despues de un tiempo
         setTimeout(() => {
             calculateMessage.textContent = ''
-        }, 4000)
+        }, 7000)
     }
 }
 calculateForm.addEventListener('submit', calculateBmi)
@@ -140,7 +140,7 @@ const sendEmail = (e) => {
         //remover el mensaje despues de un tiempo
         setTimeout(() => {
             contactMessage.textContent = ''
-        }, 3000)
+        }, 5000)
     } else {
         // serviceID - templateID - #form - publicKey
         const serviceID = 'service_lhx2eec';
@@ -152,7 +152,7 @@ const sendEmail = (e) => {
                 // Remove message after five seconds
                 setTimeout(() => {
                     contactMessage.textContent = ''
-                }, 3000)
+                }, 5000)
                 // Clear input fields
                 contactForm.reset()
             }, (err) => {
