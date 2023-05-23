@@ -12,7 +12,7 @@ En cuanto al enfoque de desarrollo, se ha seguido la metodología Mobile First. 
 
 Es importante destacar que el sitio web es compatible con todos los dispositivos móviles, lo que significa que se verá y funcionará de manera óptima en una amplia gama de dispositivos, independientemente de su tamaño de pantalla. 
 
-En resumen, se desarrollo un sitio web responsivo para un gimnasio, utilizando HTML, CSS y JavaScript. Este sitio cuenta con animaciones al hacer scroll, un formulario para calcular el índice de masa corporal y un formulario de contacto para enviar correos electrónicos. Siguiendo la metodología Mobile First, el sitio es compatible con todos los dispositivos móviles y ofrece una interfaz de usuario hermosa y agradable. Estamos encantados de presentar este sitio web que combina funcionalidad, estética y una experiencia de usuario excepcional.
+En resumen, se desarrollo un sitio web responsivo para un gimnasio, utilizando HTML, CSS y JavaScript. Este sitio cuenta con animaciones al hacer scroll, un formulario para calcular el índice de masa corporal y un formulario de contacto para enviar correos electrónicos. Siguiendo la metodología Mobile First, el sitio es compatible con todos los dispositivos móviles y ofrece una interfaz de usuario hermosa y agradable.
 ## Tecnologias y Metodologias usadas
 [![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
